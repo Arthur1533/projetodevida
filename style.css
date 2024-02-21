@@ -21,3 +21,7 @@ body {
     font-family: <<Crakra Petch>>,sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco) 
+    border-bottom: 4px solid var(--botao-ativo);
+    border-left: 2px solid car(--botao-ativo);
+    border-right: 2px solid var(--botao-ativo);
+    border-top:none;
